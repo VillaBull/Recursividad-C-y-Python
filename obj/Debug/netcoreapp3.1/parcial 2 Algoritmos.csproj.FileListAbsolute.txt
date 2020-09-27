@@ -1,0 +1,13 @@
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\bin\Debug\netcoreapp3.1\parcial 2 Algoritmos.exe
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\bin\Debug\netcoreapp3.1\parcial 2 Algoritmos.deps.json
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\bin\Debug\netcoreapp3.1\parcial 2 Algoritmos.runtimeconfig.json
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\bin\Debug\netcoreapp3.1\parcial 2 Algoritmos.runtimeconfig.dev.json
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\bin\Debug\netcoreapp3.1\parcial 2 Algoritmos.dll
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\bin\Debug\netcoreapp3.1\parcial 2 Algoritmos.pdb
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\obj\Debug\netcoreapp3.1\parcial 2 Algoritmos.csprojAssemblyReference.cache
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\obj\Debug\netcoreapp3.1\parcial 2 Algoritmos.AssemblyInfoInputs.cache
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\obj\Debug\netcoreapp3.1\parcial 2 Algoritmos.AssemblyInfo.cs
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\obj\Debug\netcoreapp3.1\parcial 2 Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\obj\Debug\netcoreapp3.1\parcial 2 Algoritmos.dll
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\obj\Debug\netcoreapp3.1\parcial 2 Algoritmos.pdb
+C:\Users\Villa\OneDrive\Escritorio\parcial 2 Algoritmos\obj\Debug\netcoreapp3.1\parcial 2 Algoritmos.genruntimeconfig.cache
