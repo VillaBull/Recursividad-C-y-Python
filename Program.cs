@@ -7,7 +7,7 @@ namespace parcial_2_Algoritmos
         static void Main(string[] args)
         {
             int num = 0;
-            Console.WriteLine("introduzca un numero");
+            Console.WriteLine("introduzca un numero:");
             num = Convert.ToInt32(System.Console.ReadLine());
             Console.WriteLine($"la suma es: {suma(num)}");
             Console.ReadKey();
